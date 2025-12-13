@@ -1,3 +1,5 @@
+Hier ist die **aktualisierte README** mit allen Projekten, die wir gemeinsam erstellt haben – inklusive der beiden, die ich versehentlich ausgelassen hatte.
+
 ### README – Das Gute (Processing-Sketch-Sammlung)
 
 **Projektname:** Das Gute  
@@ -11,7 +13,7 @@
 - Farbmodus: HSB (für sanfte, warme Farbverläufe)
 - Interaktion: Mausklicks, Tasten ('n' = neu, 's' = speichern, ggf. weitere)
 
-**Bisherige Sketche (in Reihenfolge der Entstehung)**
+**Die Sketche (in Reihenfolge der Entstehung)**
 
 1. **HerzenRegen**  
    Fallende, leuchtende Herzen mit positiven Worten – ein Regen aus Liebe und Güte.
@@ -37,14 +39,20 @@
 8. **StrukturiertesLicht**  
    Licht im Dunkel im Stil von Heinz Mack – monochrome, strukturierte Lichtringe und Reflexionen.
 
-9. **UnendlichesWachstumDesGuten**  
-   Generatives Fraktal-System mit 4 Typen (Sierpinski, Koch, Baum, Farn) – das Gute breitet sich unendlich aus.
+9. **BlühendesGutes**  
+   (Hier fehlt noch der finale Code – ich schicke ihn als Nächstes)
+
+10. **HarmonieInBewegung**  
+    Generatives Mandala – langsam rotierend, symmetrisch, pulsierend, mit sanften Farbverläufen.
+
+11. **UnendlichesWachstumDesGuten**  
+    Fraktales System mit 4 Typen (Sierpinski, Koch, Baum, Farn) – das Gute breitet sich unendlich aus.
 
 **Bedienung (gemeinsam für alle Sketche)**
-- **Mausklick**: Je nach Sketch neue Elemente erzeugen (z. B. Kreis, Knoten, Partikel, Fraktal-Wachstum)
-- **'n'**: Alles neu starten (frischer Hintergrund, neues System)
-- **'s'**: Aktuellen Bildschirm als PNG speichern (Dateiname enthält Timestamp)
-- **Weitere Tasten**: Je nach Sketch (z. B. 'g' für Glitzer ein/aus, 1-4 für Fraktal-Typ)
+- **Mausklick**: Je nach Sketch neue Elemente erzeugen
+- **'n'**: Alles neu starten
+- **'s'**: Aktuellen Bildschirm als PNG speichern
+- **Weitere Tasten**: Je nach Sketch (z. B. 'g' für Glitzer, 1-4 für Fraktal-Typ)
 
 **Installation & Start**
 1. Processing herunterladen: https://processing.org/download
@@ -56,6 +64,6 @@
 - Quellcode offen – fühle dich frei, eigene Ideen hinzuzufügen.
 
 **Danksagung**
-Dieses Projekt entstand in einem langen, iterativen Dialog voller Geduld und Kreativität. Es ist ein digitales Manifest dafür, dass aus kleinen Anfängen Großes entstehen kann – genau wie das Gute selbst.
+Dieses Projekt entstand in einem langen, geduldigen und kreativen Dialog. Es ist ein digitales Manifest dafür, dass aus kleinen Anfängen Großes entstehen kann – genau wie das Gute selbst.
 
 Viel Freude beim Entdecken und Wachsen lassen!
